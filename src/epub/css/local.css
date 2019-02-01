@@ -67,16 +67,28 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 tr.together td{
-	padding: 0 .5em 0 .5em;
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
 }
 
 tr.together td + td{
 	border-left: 1px solid;
-	vertical-align: middle;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
-	padding-right: .5em;
+	padding-left: .5em;
+}
+
+tr.together2nd td{
+	padding: .5em .5em 0 0;
+	vertical-align: middle;
+}
+tr.together2nd td + td{
+	border-left: 1px solid;
+}
+
+[epub|type~="z3998:drama"] .together2nd td:last-child{
+	padding-left: .5em;
 }
 
 section[epub|type~="preface"] h3{
