@@ -2,6 +2,21 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 
+[epub|type~="z3998:dramatis-personae"]{
+	text-align: center;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul li{
+	margin: 1em;
+	font-style: italic;
+}
+
 [epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 }
@@ -29,6 +44,9 @@
 
 [epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
 	hyphens: none;
+	line-height: 1;
+	padding-top: .5em;
+	page-break-inside: avoid;
 	text-align: right;
 	width: 20%;
 }
@@ -71,6 +89,7 @@ tr.together td{
 	vertical-align: middle;
 }
 
+tr.together td:only-child,
 tr.together td + td{
 	border-left: 1px solid;
 }
@@ -79,15 +98,7 @@ tr.together td + td{
 	padding-left: .5em;
 }
 
-tr.together2nd td{
-	padding: .5em .5em 0 0;
-	vertical-align: middle;
-}
-
-tr.together2nd td + td{
-	border-left: 1px solid;
-}
-
-[epub|type~="z3998:drama"] .together2nd td:last-child{
-	padding-left: .5em;
+.together + .together td[rowspan],
+.together + .together td[rowspan] + td{
+	padding-top: .5em;
 }
