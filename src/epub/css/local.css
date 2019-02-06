@@ -48,9 +48,6 @@
 
 [epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
 	hyphens: none;
-	line-height: 1;
-	padding-top: .5em;
-	page-break-inside: avoid;
 	text-align: right;
 	width: 20%;
 }
