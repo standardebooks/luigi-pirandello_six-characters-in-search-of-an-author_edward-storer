@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 540">
-	<title>The titlepage for the Standard Ebooks edition of Six Characters in Search of an Author, by Luigi Pirandello</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 790">
+	<title>The titlepage for the Standard Ebooks edition of Six Characters in Search of an Author, by Luigi Pirandello. Translated by Edward Storer</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -15,9 +15,22 @@
 		.author{
 			font-size: 70.17543793px;
 		}
+
+		.contributor-descriptor{
+			font-family: OFL Sorts Mill Goudy;
+			font-size: 42.5079689px;
+			font-style: italic;
+			letter-spacing: 0;
+		}
+
+		.contributor{
+			font-size: 46.78362656px;
+		}
 	</style>
 	<text class="title" x="700" y="130">SIX CHARACTERS</text>
 	<text class="title" x="700" y="230">IN SEARCH</text>
 	<text class="title" x="700" y="330">OF AN AUTHOR</text>
 	<text class="author" x="700" y="490">LUIGI PIRANDELLO</text>
+	<text class="contributor-descriptor" x="700" y="680">translated by</text>
+	<text class="contributor" x="700" y="740">EDWARD STORER</text>
 </svg>
