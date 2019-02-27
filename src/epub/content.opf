@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/luigi-pirandello/six-characters-in-search-of-an-author/edward-storer</dc:identifier>
 		<dc:date>2019-02-11T22:03:23Z</dc:date>
-		<meta property="dcterms:modified">2019-02-11T22:03:23Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2019-02-27T03:43:24Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,6 +42,7 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42148</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42148</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -54,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/42148</dc:source>
 		<dc:source>https://archive.org/details/threeplays00pira</dc:source>
 		<meta property="se:production-notes">I standardized all character names adding or deleting the article "the" as necessary.</meta>
-		<meta property="se:word-count">20366</meta>
+		<meta property="se:word-count">20367</meta>
 		<meta property="se:reading-ease.flesch">77.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Six_Characters_in_Search_of_an_Author</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/luigi-pirandello_six-characters-in-search-of-an-author_edward-storer</meta>
