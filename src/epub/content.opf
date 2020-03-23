@@ -25,7 +25,7 @@
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
-		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Six Characters in Search of an Author</dc:title>
 		<meta property="file-as" refines="#title">Six Characters in Search of an Author</meta>
@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/42148</dc:source>
 		<dc:source>https://archive.org/details/threeplays00pira</dc:source>
 		<meta property="se:production-notes">I standardized all character names adding or deleting the article "the" as necessary.</meta>
-		<meta property="se:word-count">20367</meta>
+		<meta property="se:word-count">20366</meta>
 		<meta property="se:reading-ease.flesch">77.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Six_Characters_in_Search_of_an_Author</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/luigi-pirandello_six-characters-in-search-of-an-author_edward-storer</meta>

@@ -21,7 +21,7 @@ hr{
 
 q::before,
 q::after{
-	content: '';
+	content: "";
 }
 
 h1,
@@ -97,6 +97,7 @@ section[epub|type~="titlepage"] img{
 
 a[epub|type~="noteref"]{
 	font-size: .75em;
+	font-style: normal !important;
 	vertical-align: super;
 }
 
