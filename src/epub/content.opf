@@ -76,8 +76,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Georges_Seurat</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79129009</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Marc D'Hooghe</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">D'Hooghe, Marc</meta>
+		<dc:contributor id="transcriber-1">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">D’Hooghe, Marc</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">http://www.freeliterature.org</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
