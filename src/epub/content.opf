@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/42148</dc:source>
 		<dc:source>https://archive.org/details/threeplays00pira</dc:source>
 		<meta property="se:production-notes">I standardized all character names adding or deleting the article "the" as necessary.</meta>
-		<meta property="se:word-count">20366</meta>
+		<meta property="se:word-count">20365</meta>
 		<meta property="se:reading-ease.flesch">77.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Six_Characters_in_Search_of_an_Author</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/luigi-pirandello_six-characters-in-search-of-an-author_edward-storer</meta>
@@ -106,16 +106,16 @@
 		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/list-of-characters.xhtml" id="list-of-characters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="list-of-characters.xhtml"/>
+		<itemref idref="dramatis-personae.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
