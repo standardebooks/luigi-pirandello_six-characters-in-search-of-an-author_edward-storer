@@ -45,6 +45,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Six Characters in Search of an Author&lt;/i&gt; (&lt;i lang="it"&gt;Sei personaggi in cerca d’autore&lt;/i&gt;) is an Italian three-act play written by &lt;a href="https://standardebooks.org/ebooks/luigi-pirandello"&gt;Luigi Pirandello&lt;/a&gt; in 1921, considered as one of the earliest examples of absurdist theatre. It’s a play within a play that deals with perceptions of reality and illusion, and plays with the ideas of identity and relative truths.&lt;/p&gt;
