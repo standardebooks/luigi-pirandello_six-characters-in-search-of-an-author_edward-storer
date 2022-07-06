@@ -45,7 +45,7 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta id="collection-2" property="belongs-to-collection">Le Monde‘s 100 Books of the Century</meta>
+		<meta id="collection-2" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">53</meta>
 		<dc:description id="description">An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.</dc:description>
