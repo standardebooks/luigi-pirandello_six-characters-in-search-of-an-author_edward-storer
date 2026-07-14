@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Six Characters in Search of an Author: A Comedy in the Making</dc:title>
 		<meta property="file-as" refines="#fulltitle">Six Characters in Search of an Author</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">6 Characters in Search of an Author</meta>
 		<dc:subject id="subject-1">Pirandello, Luigi, 1867-1936 -- Translations into English</dc:subject>
 		<dc:subject id="subject-2">Italian drama -- Translations into English</dc:subject>
