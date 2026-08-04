@@ -50,7 +50,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">53</meta>
-		<dc:abstract>An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.</dc:abstract>
+		<meta property="schema:abstract">An absurdist comedy that contrasts illusion with reality, in which six characters arrive on a rehearsal stage filled with actors and demand the chance to speak their lines and act out the story of their lives.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Six Characters in Search of an Author&lt;/i&gt; (&lt;i lang="it"&gt;Sei personaggi in cerca d’autore&lt;/i&gt;) is an Italian three-act play written by &lt;a href="https://standardebooks.org/ebooks/luigi-pirandello"&gt;Luigi Pirandello&lt;/a&gt; in 1921, considered as one of the earliest examples of absurdist theatre. It’s a play within a play that deals with perceptions of reality and illusion, and plays with the ideas of identity and relative truths.&lt;/p&gt;
 			&lt;p&gt;The plot features an acting company who have gathered to rehearse another play by Pirandello, when they’re interrupted by 6 “characters” who arrive in search of their author. They immediately clash with the manager who at first assumes they’re mad. But, as the play progresses, the manager slowly shifts his reality as the characters become more real than the actors.&lt;/p&gt;
