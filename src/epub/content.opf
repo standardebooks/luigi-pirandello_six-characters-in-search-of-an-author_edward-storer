@@ -38,8 +38,8 @@
 		<meta property="file-as" refines="#fulltitle">Six Characters in Search of an Author</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">6 Characters in Search of an Author</meta>
-		<dc:subject id="subject-1">Pirandello, Luigi, 1867-1936 -- Translations into English</dc:subject>
-		<dc:subject id="subject-2">Italian drama -- Translations into English</dc:subject>
+		<dc:subject id="subject-1">Pirandello, Luigi, 1867-1936--Translations into English</dc:subject>
+		<dc:subject id="subject-2">Italian drama--Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
